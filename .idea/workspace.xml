@@ -2,11 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4ea16d77-cdf0-4dc6-bc89-250172942b3d" name="Default Changelist" comment="">
+<<<<<<< HEAD
       <change afterPath="$PROJECT_DIR$/.idea/dictionaries/Annsy.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/main.css" afterDir="false" />
+=======
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+>>>>>>> 5c6068c1a0f9fbc4d222eb26d156f39aa6f27bc1
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -19,6 +23,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+<<<<<<< HEAD
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -61,6 +66,13 @@
                 <element signature="e#1332#1348#0" />
                 <element signature="e#1624#1640#0" />
               </folding>
+=======
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="23">
+              <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+>>>>>>> 5c6068c1a0f9fbc4d222eb26d156f39aa6f27bc1
             </state>
           </provider>
         </entry>
@@ -84,20 +96,51 @@
         <option value="$APPLICATION_CONFIG_DIR$/scratches/index.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/main.css" />
+<<<<<<< HEAD
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="1">
+=======
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+>>>>>>> 5c6068c1a0f9fbc4d222eb26d156f39aa6f27bc1
     <option name="x" value="987" />
     <option name="width" value="942" />
     <option name="height" value="1038" />
   </component>
+<<<<<<< HEAD
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+=======
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+>>>>>>> 5c6068c1a0f9fbc4d222eb26d156f39aa6f27bc1
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
+<<<<<<< HEAD
     <panes />
+=======
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="KMAGiftShop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KMAGiftShop" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+>>>>>>> 5c6068c1a0f9fbc4d222eb26d156f39aa6f27bc1
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
@@ -132,15 +175,26 @@
       <updated>1556798600450</updated>
       <workItem from="1556798601940" duration="346000" />
       <workItem from="1556798949320" duration="14768000" />
+<<<<<<< HEAD
       <workItem from="1556971346990" duration="14439000" />
+=======
+      <workItem from="1556971346990" duration="13127000" />
+>>>>>>> 5c6068c1a0f9fbc4d222eb26d156f39aa6f27bc1
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="29553000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="790" y="0" width="753" height="830" extended-state="0" />
+=======
+    <option name="totallyTimeSpent" value="28309000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
+>>>>>>> 5c6068c1a0f9fbc4d222eb26d156f39aa6f27bc1
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.26533523" />
@@ -186,6 +240,7 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.html" />
+<<<<<<< HEAD
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="595">
@@ -217,15 +272,31 @@
             <element signature="n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#script#2;n#body#0;n#html#0;n#!!top" />
           </folding>
+=======
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/index.html" />
+    <entry file="file://$PROJECT_DIR$/../BUYLIST/index.html" />
+    <entry file="file://$PROJECT_DIR$/../BUYLIST/main.css" />
+    <entry file="file://$PROJECT_DIR$/../JS-Pizza-master/Gruntfile.js" />
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="28" column="74" selection-start-line="28" selection-start-column="74" selection-end-line="28" selection-end-column="74" />
+>>>>>>> 5c6068c1a0f9fbc4d222eb26d156f39aa6f27bc1
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/main.css">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="412">
           <caret line="94" column="24" selection-end-line="144" selection-end-column="1" />
           <folding>
             <element signature="e#5#109#0" />
+=======
+        <state relative-caret-position="391">
+          <caret line="68" column="40" selection-start-line="68" selection-start-column="40" selection-end-line="68" selection-end-column="40" />
+          <folding>
+>>>>>>> 5c6068c1a0f9fbc4d222eb26d156f39aa6f27bc1
             <element signature="e#117#242#0" />
             <element signature="e#250#348#0" />
             <element signature="e#428#436#0" />
@@ -234,7 +305,10 @@
             <element signature="e#453#517#0" />
             <element signature="e#629#632#0" />
             <element signature="e#603#711#0" />
+<<<<<<< HEAD
             <element signature="e#724#869#0" />
+=======
+>>>>>>> 5c6068c1a0f9fbc4d222eb26d156f39aa6f27bc1
             <element signature="e#956#964#0" />
             <element signature="e#939#1012#0" />
             <element signature="e#980#996#0" />
@@ -250,5 +324,15 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
+=======
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+>>>>>>> 5c6068c1a0f9fbc4d222eb26d156f39aa6f27bc1
   </component>
 </project>
